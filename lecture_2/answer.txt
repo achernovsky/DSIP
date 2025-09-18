@@ -1,0 +1,30 @@
+world - 77 6F 72 6C 64
+position in hello_world.doc - 0x00001840
+hello_world (1bit) - 0x3E
+hello_world (24bit) - 0x36
+
+6.3
+When I run the file I get a message "This app can't run on your PC"
+Changing the extension didn't changes the bytesinside the file. 
+
+After setting hello_world.txt to read only, I was able to edit the file but, when I tried to save the changes, the system didn’t allow me to overwrite the original file. Instead, it only allowed me to save it as a new file.
+
+7
+1. I have two disks.
+2. disk 1: 
+	Model: Samsung SSD 860 EVO 500GB
+  	Capacity: 500 GB
+  	Read Speed: 550 MB/s
+  	Write Speed: 520 MB/s
+   disk 2:
+	Model: Micron_1100_MTFDDAV256TBN
+  	Capacity: 256 GB
+  	Read Speed: 530 MB/s
+  	Write Speed: 500 MB/s
+
+3. Disk C :
+One Partition, 237 GB, Contains the Windows OS and application files.
+Disc D: 
+One Partition, 465 GB, Contains other data.
+
+

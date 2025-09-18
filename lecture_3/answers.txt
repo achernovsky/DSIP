@@ -1,0 +1,22 @@
+4
+1. Intel(R) Core(TM) i5-8250U, 4 cores, speed 1.60 GHz
+2. Type: DDR4, model: 859B and Samsung, speed: 2400 MHz, Total RAM: 16 GB (2 * 8)
+3. Intel UHD Graphics 620, Dedicated Video Memory: 128 MB
+4. Bios Version: American Megatrends Inc. X542URR.309, Last Updated: 21/05/2019
+
+5
+Boot Order:
+1. SlimtypeDVD A DA8AESH
+2. Micron_1100_MTFDDAV256TBN
+3. Samsung SSD 860 EVO 500GB
+4. Windows Boot Manager (P2: Micron_1100_MTFDDAV256TBN)
+Can your computer boot from a USB disk? Yes
+
+6
+Current screen resolution: 1920 * 1080
+When I change the screen to portrait mode, the display rotates 90 degrees.
+I will use this mode for reading long documemts or pages of code.
+When i changed the resolution to 800 * 600, everything on the screen became larger, 
+and some items didn't fit in the screen.
+
+

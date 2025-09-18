@@ -1,0 +1,19 @@
+4.1
+my ip address curl:  84.25.58.187
+my ip address ipconfig: 192.168.178.45
+Default Gateway: 192.168.178.1
+4.2
+with vpn: 84.25.58.187 - no change
+4.3
+IP and gateway are private
+4.4
+"loc": "52.1656,4.5338"
+4.5
+The first hub is always the local router and the last hub is Google data center
+4.6
+The geo location is Amsterdam.
+
+5.1
+
+
+
